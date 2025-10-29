@@ -36,8 +36,6 @@ Here are the key technologies I have practical experience with:
 ### 🎓 Certifications & Google Cloud Expertise
 
 - **[Google Cloud Cybersecurity Certificate](https://www.credly.com/earner/dashboard)** - Issued: October 2025
-- **[Google Cloud Computing Foundations Certificate](https://www.credly.com/earner/dashboard)** - Issued: September 2025
-- **[Google Data Analytics Certificate](https://www.credly.com/badges/)** - Issued: September 2025
 
  
  Key skills demonstrated through Google Cloud challenge labs:
